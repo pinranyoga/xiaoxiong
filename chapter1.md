@@ -1,7 +1,5 @@
-# First Chapter
+# 第一章 孕育的
 哈里波
 
-## 蝇
+## 
 
-
-![](./images/1.jpg)
